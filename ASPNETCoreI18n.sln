@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Annotations", "Annotations", "{05BDE502-7F71-4C44-BB04-2384D1454483}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cookies", "Cookies", "{2C86BF02-EA99-4C64-AEC2-8ECF38744A9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Currency", "Currency", "{7F62302B-CB82-452C-87D9-5D604E8BC93F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{4902A1F4-A09E-4BCF-967E-A1A76E27CD03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{77AAE915-46E7-450C-A62D-D2318E520822}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Geolocation", "Geolocation", "{2178332E-96A6-45AF-AD98-01014CB547D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Culture", "Culture", "{C7D2FD36-C45D-4E2F-9031-F5C075421FBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomLocalizer", "CustomLocalizer", "{EAFA65FE-435F-4C31-BE86-241B1FCA2138}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChinookMusicStore", "ChinookMusicStore", "{48380878-7663-4C93-ABB5-D324CBB92510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musicstore", "musicstore\musicstore.csproj", "{F7574302-A9AC-4B40-AEDE-AF8F72A02772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7574302-A9AC-4B40-AEDE-AF8F72A02772} = {48380878-7663-4C93-ABB5-D324CBB92510}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
