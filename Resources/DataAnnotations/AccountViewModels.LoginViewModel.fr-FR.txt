@@ -1,0 +1,10 @@
+; NotValidEmail
+NotValidEmail = L'email n'est pas valide
+; Required
+Required = Requis
+; YourEmail
+YourEmail = Votre Email
+; Password
+Password = Mot de passe
+; RememberMe
+RememberMe = Souviens-toi de moi?

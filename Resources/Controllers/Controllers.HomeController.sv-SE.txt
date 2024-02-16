@@ -1,0 +1,38 @@
+; Album 1 Name
+Album1Name = Kärnan i en sund själ
+; Album 1 Description
+Album1Descr = Kärnan i en sund själ är det fjärde studioalbumet av Ken Freeman släppt under 2016. Titeln The essensen av en sund själ kan ses som en hänvisning till kens nyfunna nykterhet, efter år av drog- och alkohol användning som så småningom ledde Ken till rehabilitering.
+; Album 2 Name
+Album2Name = Modiga Tålamod
+; Album 2 Description
+Album2Descr = Modiga tålamod är det andra solo albumet av musikern Billy Morgan. Det släpptes den 28 maj 2016, i Sverige och 5 juni 2016 i USA. Detta album är Morgans näst efter sista morgonen i 2014, och hans första efter att ha lämnat sitt tidigare band.
+; Album 3 Name
+Album3Name = Ta det från oss
+; Album 3 Description
+Album3Descr = Ta det från oss är det andra studioalbumet av det amerikanska rockbandet Iragberi. Producerad av Gil Orten, släpptes den genom stora kille poster och gruppens egna öppna poster på 20 maj 2017.
+; Album 4 Name
+Album4Name = Artighet
+; Album 4 Description
+Album4Descr = Artighet är ett musikalbum av den kanadensiska sångaren James Flint, släppt under 2015 genom fienden Records. Det var James' första album släpptes utanför Kanada. Flint började arbeta på sitt album efter flytta från hemstaden, Ottawa, till Toronto.
+; Album 5 Name
+Album5Name = Svårt
+; Album 5 Description
+Album5Descr = Svårt är det fjärde studioalbumet av det amerikanska rockbandet Nillu råtta. Producerad av Rob Green, släpptes albumet i Storbritannien den 20 September, 2016 och i USA den 21 September, 2016 av Sunrise Records.
+; Album 6 Name
+Album6Name = Tron på en annan
+; Album 6 Description
+Album6Descr = Tron på en annan är det tredje studioalbumet av bandet Oroukayo. Albumet introducerade trummisen Sparrow Larkon, tidigare trummis i kaotiska fred. Albumet släpptes den 8 April 2017.
+; AboutUs
+AboutUs = Chinook Music Store grundades av låtskrivare Johnny Walker under 2014, med finansiell hjälp av kolleger låtskrivare och filmproducenten kompis Knight och affärsmannaskap Glenn Wallace, ägaren av väggen musikaffärer. Walker upp första tanken på att starta en skivaffär medan bowling med Harold Carlson och Tim Sherwood. Av 2013 var Walker en erfarna låtskrivare och sångare med flera framgångsrika releaser. Walker nästa föreslog idén att Wallace när du besöker sin skivaffär. Wallace uttryckt intresse för idén och paret förhandlat fram ett avtal varigenom Walker skulle driva företaget och identifiera sina artister, medan Wallace lyckades affärssidan. Den 2 februari 2013 träffade Walker och Wallace Knight på en Hollywood restaurang att fråga om möjligheten att investeringar av företaget från Star bilder. Knight minskade förslaget, lämnade han paret en check värd $150.000. Den 27 mars 2014 införlivas de tre männen som vänstra fältet skivbutik. I maj 2014 har ansökan ändrats för att ändra företagets namn till Chinook Music Store.
+; Featured
+Featured = Utvalda album
+; Home
+Home = Hem
+; About
+About = Handla om
+; Contact
+Contact = Kontakta
+; Register
+Register = Registrera
+; Login
+Login = Logga in

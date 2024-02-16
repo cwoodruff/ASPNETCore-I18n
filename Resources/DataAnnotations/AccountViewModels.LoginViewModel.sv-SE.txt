@@ -1,0 +1,10 @@
+; NotValidEmail
+NotValidEmail = E-post är inte giltig
+; Required
+Required = Nödvändig
+; YourEmail
+YourEmail = Din email
+; Password
+Password = Lösenord
+; RememberMe
+RememberMe = Kom ihåg mig?

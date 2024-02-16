@@ -1,0 +1,12 @@
+; AboutUs
+AboutUs = Chinook Music Store was founded by songwriter Johnny Walker in 2014, with the financial help of fellow songwriter and film producer Buddy Knight and the business acumen of Glenn Wallace, the owner of Wall Music Stores. Walker first raised the idea of starting a record store while bowling with Harold Carlson and Tim Sherwood. By 2013, Walker was an experienced songwriter and a singer with multiple successful releases. Walker next suggested the idea to Wallace while visiting his record store. Wallace expressed interest in the idea and the pair negotiated an agreement whereby Walker would run the company and identify their artists, while Wallace managed the business side. On February 2, 2013, Walker and Wallace met with Knight at a Hollywood restaurant to inquire about the possibility of investment of the company from Star Pictures. While Knight declined the proposal, he handed the pair a check worth $150,000. On March 27, 2014, the three men incorporated as Left Field Record Store. In May 2014, the application was amended to change the company's name to Chinook Music Store.
+; Home
+Home = Home
+; About
+About = About
+; Contact
+Contact = Contact
+; Register
+Register = Register
+; Login
+Login = Log In

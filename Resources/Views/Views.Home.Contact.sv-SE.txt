@@ -1,0 +1,10 @@
+; Home
+Home = Hem
+; About
+About = Handla om
+; Contact
+Contact = Kontakta
+; Register
+Register = Registrera
+; Login
+Login = Logga in

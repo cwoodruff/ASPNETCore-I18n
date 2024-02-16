@@ -1,0 +1,18 @@
+; Home
+Home = Home
+; About
+About = About
+; Contact
+Contact = Contact
+; Register
+Register = Register
+; Login
+Login = Log In
+; CreateAccount
+CreateAccount = Create a new account.
+; Email
+Email = Email
+; Password
+Password = Password
+; ConfirmPassword
+ConfirmPassword = Confirm Password

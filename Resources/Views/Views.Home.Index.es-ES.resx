@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Album1Name" xml:space="preserve">
+    <value>La Esencia de un Alma Sana</value>
+  </data>
+  <data name="Album1Descr" xml:space="preserve">
+    <value>La Esencia de un alma sana es que el cuarto álbum de estudio de Ken Freeman lanzado en 2016. El título la esencia de un alma saludable puede verse como una referencia a la sobriedad de nuevo Ken, después de años de uso de drogas y alcohol que condujo eventual a Ken en rehabilitación.</value>
+  </data>
+  <data name="Album2Name" xml:space="preserve">
+    <value>Valiente Paciencia</value>
+  </data>
+  <data name="Album2Descr" xml:space="preserve">
+    <value>Valiente paciencia es el segundo álbum de estudio solista por el músico estadounidense Billy Morgan. Fue lanzado el 28 de mayo de 2016, en el Reino Unido y 05 de junio de 2016, en los Estados Unidos. Este álbum es de Morgan en segundo lugar después de pasado mañana en 2014 y su primera desde que dejó su anterior banda.</value>
+  </data>
+  <data name="Album3Name" xml:space="preserve">
+    <value>Tomar de nosotros</value>
+  </data>
+  <data name="Album3Descr" xml:space="preserve">
+    <value>Tomar lo de nosotros es el segundo álbum de estudio de la banda de rock Iragberi. Producido por Gil Orten, fue lanzado a través de grandes registros de Guy y del grupo abierto el 20 de mayo de 2017.</value>
+  </data>
+  <data name="Album4Name" xml:space="preserve">
+    <value>Cortesía</value>
+  </data>
+  <data name="Album4Descr" xml:space="preserve">
+    <value>La cortesía es el tercer disco de la cantante canadiense James Flint, lanzado en el año 2015 a través de registros de enemigo. Era primer álbum de James fuera de Canadá. Flint comenzó a trabajar en su álbum después de mudarse desde su ciudad natal, Ottawa, Toronto.</value>
+  </data>
+  <data name="Album5Name" xml:space="preserve">
+    <value>Difícil</value>
+  </data>
+  <data name="Album5Descr" xml:space="preserve">
+    <value>Difícil es el cuarto álbum de estudio por la banda de rock Nillu rata. Producido por Rob Green, el álbum fue lanzado en el Reino Unido el 20 de septiembre de 2016 y en los Estados Unidos en 21 de septiembre de 2016 por Sunrise Records.</value>
+  </data>
+  <data name="Album6Name" xml:space="preserve">
+    <value>Creencia en otro</value>
+  </data>
+  <data name="Album6Descr" xml:space="preserve">
+    <value>La creencia en el otro es el tercer álbum de estudio de la banda Oroukayo. El álbum presentó baterista gorrión Larkon, ex baterista de paz caótica. El álbum fue lanzado el 08 de abril de 2017.</value>
+  </data>
+  <data name="Featured" xml:space="preserve">
+    <value>Álbumes recomendados</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Casa</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>Acerca de</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contacto</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registro</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Iniciar sesión</value>
+  </data>
+</root>

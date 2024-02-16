@@ -1,0 +1,18 @@
+; Home
+Home = Casa
+; About
+About = Acerca de
+; Contact
+Contact = Contacto
+; Register
+Register = Registro
+; Login
+Login = Iniciar sesión
+; CreateAccount
+CreateAccount = Crea una cuenta nueva.
+; Email
+Email = Email
+; Password
+Password = Contraseña
+; ConfirmPassword
+ConfirmPassword = Confirmar contraseña

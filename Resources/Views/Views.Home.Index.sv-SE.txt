@@ -1,0 +1,36 @@
+; Album 1 Name
+Album1Name = Kärnan i en sund själ
+; Album 1 Description
+Album1Descr = Kärnan i en sund själ är det fjärde studioalbumet av Ken Freeman släppt under 2016. Titeln The essensen av en sund själ kan ses som en hänvisning till kens nyfunna nykterhet, efter år av drog- och alkohol användning som så småningom ledde Ken till rehabilitering.
+; Album 2 Name
+Album2Name = Modiga Tålamod
+; Album 2 Description
+Album2Descr = Modiga tålamod är det andra solo albumet av musikern Billy Morgan. Det släpptes den 28 maj 2016, i Sverige och 5 juni 2016 i USA. Detta album är Morgans näst efter sista morgonen i 2014, och hans första efter att ha lämnat sitt tidigare band.
+; Album 3 Name
+Album3Name = Ta det från oss
+; Album 3 Description
+Album3Descr = Ta det från oss är det andra studioalbumet av det amerikanska rockbandet Iragberi. Producerad av Gil Orten, släpptes den genom stora kille poster och gruppens egna öppna poster på 20 maj 2017.
+; Album 4 Name
+Album4Name = Artighet
+; Album 4 Description
+Album4Descr = Artighet är ett musikalbum av den kanadensiska sångaren James Flint, släppt under 2015 genom fienden Records. Det var James' första album släpptes utanför Kanada. Flint började arbeta på sitt album efter flytta från hemstaden, Ottawa, till Toronto.
+; Album 5 Name
+Album5Name = Svårt
+; Album 5 Description
+Album5Descr = Svårt är det fjärde studioalbumet av det amerikanska rockbandet Nillu råtta. Producerad av Rob Green, släpptes albumet i Storbritannien den 20 September, 2016 och i USA den 21 September, 2016 av Sunrise Records.
+; Album 6 Name
+Album6Name = Tron på en annan
+; Album 6 Description
+Album6Descr = Tron på en annan är det tredje studioalbumet av bandet Oroukayo. Albumet introducerade trummisen Sparrow Larkon, tidigare trummis i kaotiska fred. Albumet släpptes den 8 April 2017.
+; Featured
+Featured = Utvalda album
+; Home
+Home = Hem
+; About
+About = Handla om
+; Contact
+Contact = Kontakta
+; Register
+Register = Registrera
+; Login
+Login = Logga in
