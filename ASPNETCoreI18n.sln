@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChinookMusicStore", "Chinoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musicstore", "musicstore\musicstore.csproj", "{F7574302-A9AC-4B40-AEDE-AF8F72A02772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomProvider", "CustomProvider\CustomProvider.csproj", "{AA5A64A8-19AF-4F60-804A-11A043DBC693}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F7574302-A9AC-4B40-AEDE-AF8F72A02772} = {48380878-7663-4C93-ABB5-D324CBB92510}
+		{AA5A64A8-19AF-4F60-804A-11A043DBC693} = {EAFA65FE-435F-4C31-BE86-241B1FCA2138}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7574302-A9AC-4B40-AEDE-AF8F72A02772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5A64A8-19AF-4F60-804A-11A043DBC693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5A64A8-19AF-4F60-804A-11A043DBC693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5A64A8-19AF-4F60-804A-11A043DBC693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5A64A8-19AF-4F60-804A-11A043DBC693}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
