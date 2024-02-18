@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Album1Name" xml:space="preserve">
+    <value>L’Essence d’une âme saine</value>
+  </data>
+  <data name="Album1Descr" xml:space="preserve">
+    <value>L’Essence d’une âme saine est que le quatrième album studio par Ken Freeman sorti en 2016. Le titre de l’Essence d’une âme saine peut être considéré comme se référant à la sobriété retrouvée de Ken, après des années de consommation d’alcool et de drogues qui a finalement conduit Ken en réhabilitation.</value>
+  </data>
+  <data name="Album2Name" xml:space="preserve">
+    <value>Patience Courageuse</value>
+  </data>
+  <data name="Album2Descr" xml:space="preserve">
+    <value>Patience courageuse est le deuxième album solo du musicien américain Billy Morgan. Il est sorti le 28 mai 2016, au Royaume Uni et le 5 juin 2016, aux États-Unis. Cet album est Morgan deuxième après la dernière matinée en 2014 et sa première depuis le départ de son ancien groupe.</value>
+  </data>
+  <data name="Album3Name" xml:space="preserve">
+    <value>Prenez-le de nous</value>
+  </data>
+  <data name="Album3Descr" xml:space="preserve">
+    <value>Take It de Us est le deuxième album studio du groupe de rock américain Iragberi. Produit par Gil Orten, il est sorti par Big Guy enregistrements et le propre du groupe ouvert le 20 mai 2017.</value>
+  </data>
+  <data name="Album4Name" xml:space="preserve">
+    <value>Courtoisie</value>
+  </data>
+  <data name="Album4Descr" xml:space="preserve">
+    <value>La courtoisie est le troisième album du chanteur canadien James Flint, sorti en 2015 dans les enregistrements de l’ennemi. C’était le premier album de James', sorti à l’extérieur du Canada. Flint a commencé à travailler sur son album après avoir déménagé de sa ville natale, Ottawa, à Toronto.</value>
+  </data>
+  <data name="Album5Name" xml:space="preserve">
+    <value>Difficile</value>
+  </data>
+  <data name="Album5Descr" xml:space="preserve">
+    <value>Le quatrième album studio du groupe de rock américain Nillu Rat est difficile. Produit par Rob Green, l’album est sorti au Royaume-Uni le 20 septembre 2016 et aux États-Unis le 21 septembre 2016 par Sunrise Records.</value>
+  </data>
+  <data name="Album6Name" xml:space="preserve">
+    <value>Croyance en l’autre</value>
+  </data>
+  <data name="Album6Descr" xml:space="preserve">
+    <value>Croyance en l’autre est le troisième album studio du groupe de Oroukayo. L’album présente le batteur Moineau Larkon, ancien batteur de paix chaotique. L’album est sorti le 8 avril 2017.</value>
+  </data>
+  <data name="AboutUs" xml:space="preserve">
+    <value>Magasin de musique de Chinook a été fondée par compositeur Johnny Walker en 2014, avec l’aide financière du collègue auteur-compositeur, producteur et scénariste Buddy Knight et le sens aigu des affaires de Glenn Wallace, le propriétaire des magasins de musique de mur. Walker pour la première fois l’idée d’ouvrir un magasin de disques tout en bowling avec Harold Carlson et Tim Sherwood. En 2013, Walker était un chanteur et un compositeur expérimenté avec succès démoulante. Walker a ensuite suggéré l’idée que Wallace lors d’une visite de son magasin de disques. Wallace, manifesté leur intérêt pour l’idée et la paire a négocié un accord selon lequel Walker irait de l’entreprise et identifier leurs artistes, tandis que Wallace réussi du côté des entreprises. Le 2 février 2013, Walker et Wallace ont rencontré Chevalier dans un restaurant de Hollywood pour s’enquérir de la possibilité d’investissement de la société de photos de la Star. Tandis que le chevalier a décliné la proposition, il a remis à la paire un chèque d’une valeur de $ 150 000. Le 27 mars 2014, les trois hommes constituée comme magasin de disques de champ gauche. En mai 2014, l’application a été modifiée pour changer le nom de l’entreprise à Chinook Music Store.</value>
+  </data>
+  <data name="Featured" xml:space="preserve">
+    <value>Albums recommandés</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>Sur</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registre</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>S'identifier</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Titre</value>
+  </data>
+</root>

@@ -1,12 +1,16 @@
-﻿@{
-    ViewData["Title"] = "Chinook Music Store";
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+
+@{
+    ViewData["Title"] = "IViewLocalizer";
 }
+
+@inject IViewLocalizer ViewLocalizer
 
 <!-- Page Content -->
 <div class="container">
     <div class="row">
         <div class="col-lg-3">
-            <h1 class="my-4">@ViewData["Featured"]</h1>
+            <h1 class="my-4">@ViewLocalizer["Featured"]</h1>
         </div>
         <!-- /.col-lg-3 -->
         <div class="col-lg-9">
@@ -45,10 +49,10 @@
                                 <a href="#">Ken Freeman</a>
                             </h4>
                             <h3 class="card-title">
-                                <a href="#">@ViewData["Album1Name"]</a>
+                                <a href="#">@ViewLocalizer["Album1Name"]</a>
                             </h3>
                             <h5>$9.99</h5>
-                            <p class="card-text">@ViewData["Album1Descr"]</p>
+                            <p class="card-text">@ViewLocalizer["Album1Descr"]</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-muted">&#9733; &#9733; &#9734; &#9734; &#9734;</small>
@@ -63,10 +67,10 @@
                                 <a href="#">Billy Morgan</a>
                             </h4>
                             <h3 class="card-title">
-                                <a href="#">@ViewData["Album2Name"]</a>
+                                <a href="#">@ViewLocalizer["Album2Name"]</a>
                             </h3>
                             <h5>$10.99</h5>
-                            <p class="card-text">@ViewData["Album2Descr"]</p>
+                            <p class="card-text">@ViewLocalizer["Album2Descr"]</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-muted">&#9733; &#9733; &#9733; &#9734; &#9734;</small>
@@ -81,10 +85,10 @@
                                 <a href="#">Iragberi</a>
                             </h4>
                             <h3 class="card-title">
-                                <a href="#">@ViewData["Album3Name"]</a>
+                                <a href="#">@ViewLocalizer["Album3Name"]</a>
                             </h3>
                             <h5>$14.99</h5>
-                            <p class="card-text">@ViewData["Album3Descr"]</p>
+                            <p class="card-text">@ViewLocalizer["Album3Descr"]</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9733;</small>
@@ -99,10 +103,10 @@
                                 <a href="#">James Flint</a>
                             </h4>
                             <h3 class="card-title">
-                                <a href="#">@ViewData["Album4Name"]</a>
+                                <a href="#">@ViewLocalizer["Album4Name"]</a>
                             </h3>
                             <h5>$7.99</h5>
-                            <p class="card-text">@ViewData["Album4Descr"]</p>
+                            <p class="card-text">@ViewLocalizer["Album4Descr"]</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-muted">&#9733; &#9733; &#9734; &#9734; &#9734;</small>
@@ -117,10 +121,10 @@
                                 <a href="#">Nillu Rat</a>
                             </h4>
                             <h3 class="card-title">
-                                <a href="#">@ViewData["Album5Name"]</a>
+                                <a href="#">@ViewLocalizer["Album5Name"]</a>
                             </h3>
                             <h5>$8.99</h5>
-                            <p class="card-text">@ViewData["Album5Descr"]</p>
+                            <p class="card-text">@ViewLocalizer["Album5Descr"]</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -135,10 +139,10 @@
                                 <a href="#">Oroukayo</a>
                             </h4>
                             <h3 class="card-title">
-                                <a href="#">@ViewData["Album6Name"]</a>
+                                <a href="#">@ViewLocalizer["Album6Name"]</a>
                             </h3>
                             <h5>$9.99</h5>
-                            <p class="card-text">@ViewData["Album6Descr"]</p>
+                            <p class="card-text">@ViewLocalizer["Album6Descr"]</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-muted">&#9733; &#9733; &#9733; &#9734; &#9734;</small>

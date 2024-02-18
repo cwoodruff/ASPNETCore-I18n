@@ -1,14 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Annotations", "Annotations", "{05BDE502-7F71-4C44-BB04-2384D1454483}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cookies", "Cookies", "{2C86BF02-EA99-4C64-AEC2-8ECF38744A9D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Currency", "Currency", "{7F62302B-CB82-452C-87D9-5D604E8BC93F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{4902A1F4-A09E-4BCF-967E-A1A76E27CD03}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{77AAE915-46E7-450C-A62D-D2318E520822}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomLocalizer", "CustomLocalizer", "{EAFA65FE-435F-4C31-BE86-241B1FCA2138}"
 EndProject

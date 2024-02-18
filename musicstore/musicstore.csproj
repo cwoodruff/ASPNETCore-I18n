@@ -19,4 +19,54 @@
         <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.1"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Areas\Identity\Pages\_ViewStart.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="Resources\.DS_Store" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Update="resources\DataAnnotations\AlbumViewModel.en-US.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>AlbumViewModel.en.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="resources\DataAnnotations\AlbumViewModel.es-ES.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>AlbumViewModel.es.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="resources\DataAnnotations\AlbumViewModel.fr-FR.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>AlbumViewModel.fr-FR.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="resources\DataAnnotations\AlbumViewModel.sv-SE.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>AlbumViewModel.sv-SE.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="resources\DataAnnotations\AlbumViewModel.en-US.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>AlbumViewModel.en-US.resx</DependentUpon>
+      </Compile>
+      <Compile Update="resources\DataAnnotations\AlbumViewModel.es-ES.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>AlbumViewModel.es-ES.resx</DependentUpon>
+      </Compile>
+      <Compile Update="resources\DataAnnotations\AlbumViewModel.fr-FR.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>AlbumViewModel.fr-FR.resx</DependentUpon>
+      </Compile>
+      <Compile Update="resources\DataAnnotations\AlbumViewModel.sv-SE.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>AlbumViewModel.sv-SE.resx</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
 </Project>
