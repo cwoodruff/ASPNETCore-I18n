@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Currency", "Currency", "{7F62302B-CB82-452C-87D9-5D604E8BC93F}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomLocalizer", "CustomLocalizer", "{EAFA65FE-435F-4C31-BE86-241B1FCA2138}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChinookMusicStore", "ChinookMusicStore", "{48380878-7663-4C93-ABB5-D324CBB92510}"
